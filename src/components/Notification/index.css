@@ -1,0 +1,9 @@
+.min-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #64748b;
+  padding: 10px;
+  box-shadow: 2px 2px 2px 2px #475569;
+  margin: 5px;
+  width: 35%;
+}

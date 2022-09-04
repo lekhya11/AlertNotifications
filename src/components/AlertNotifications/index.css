@@ -1,0 +1,39 @@
+.main-heading {
+  color: lightcoral;
+  font-family: 'monospace';
+  font-size: 40px;
+  font-weight: bolder;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.success {
+  color: #2dca73;
+  font-family: 'Open serif';
+  margin: 6px;
+}
+.cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.error {
+  color: #ff0b37;
+  font-family: 'Open serif';
+  margin: 6px;
+}
+.warning {
+  color: #ffb800;
+  font-family: 'Open serif';
+  margin: 6px;
+}
+.info {
+  color: #0f81e0;
+  font-family: 'Open serif';
+  margin: 6px;
+}
